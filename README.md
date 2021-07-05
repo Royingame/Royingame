@@ -1,4 +1,4 @@
-- <p align="center">
+ <p align="center">
   <img width="650" height="350" src="https://github.com/Royingame/Readme_Github/blob/main/Animated%20GIF-downsized_large.gif">
 </p>
 
